@@ -63,6 +63,5 @@ productos.create({
 });
 
 productos.readOne(4)
-
 console.table(productos.read());
 
